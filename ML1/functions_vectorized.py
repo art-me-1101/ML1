@@ -1,6 +1,5 @@
 import numpy as np
 from PIL import Image
-import scipy
 
 
 def prod_non_zero_diag(x: np.ndarray):
